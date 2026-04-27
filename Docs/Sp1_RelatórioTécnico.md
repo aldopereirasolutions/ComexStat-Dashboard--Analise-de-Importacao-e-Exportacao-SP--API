@@ -176,50 +176,50 @@ A definição das personas orientou diretamente as funcionalidades do MVP.
 
 ---
 
-10. Definição das Histórias de Usuário
+**10. Definição das Histórias de Usuário:**
 
 As histórias de usuário foram definidas utilizando a estrutura padrão ágil:
 
-“Como [usuário], quero [funcionalidade], para [objetivo]”.
+- “Como [usuário], quero [funcionalidade], para [objetivo]”.
 
-A priorização foi realizada com base no impacto para validação do MVP.
+- A priorização foi realizada com base no impacto para validação do MVP.
 
-Histórias de alta prioridade foram escolhidas por serem essenciais para validar a hipótese, incluindo:
+- Histórias de alta prioridade foram escolhidas por serem essenciais para validar a hipótese, incluindo:
 
-Seleção de países
+- Seleção de países
 
-Visualização de municípios
+- Visualização de municípios
 
-Análise de valores em dólar
+- Análise de valores em dólar
 
-Identificação de produtos
+- Identificação de produtos
 
-Filtro por ano
+- Filtro por ano
 
 
 Histórias de média prioridade foram incluídas para enriquecer a análise:
 
-Visualização de vias de transporte
+- Visualização de vias de transporte
 
-Identificação de destinos
+- Identificação de destinos
 
 
 
 ---
 
-11. Definição dos Critérios de Aceitação
+**11. Definição dos Critérios de Aceitação:**
 
 Os critérios de aceitação foram definidos para garantir que cada história de usuário fosse considerada concluída apenas quando atendesse requisitos mínimos.
 
 Os principais critérios definidos foram:
 
-O usuário deve conseguir visualizar dados por município
+- O usuário deve conseguir visualizar dados por município
 
-O usuário deve conseguir filtrar dados por período
+- O usuário deve conseguir filtrar dados por período
 
-Os dados devem estar estruturados corretamente em tabelas
+- Os dados devem estar estruturados corretamente em tabelas
 
-O dashboard deve apresentar visualização clara e interativa
+- O dashboard deve apresentar visualização clara e interativa
 
 
 Esses critérios foram definidos com base na necessidade de validar a hipótese do projeto.
@@ -227,36 +227,36 @@ Esses critérios foram definidos com base na necessidade de validar a hipótese 
 
 ---
 
-12. Execução da Sprint 1
+**12. Execução da Sprint 1:**
 
 A Sprint 1 foi executada seguindo o processo ágil com as seguintes etapas:
 
-Definição do backlog
+- Definição do backlog
 
-Priorização das tarefas
+- Priorização das tarefas
 
-Desenvolvimento das tabelas
+- Desenvolvimento das tabelas
 
-Tratamento dos dados
+- Tratamento dos dados
 
-Construção do dashboard
+- Construção do dashboard
 
-Testes internos
+- Testes internos
 
 
 As entregas principais foram:
 
-Tabela de exportações estruturada
+- Tabela de exportações estruturada
 
-Dados tratados do COMEXSTAT
+- Dados tratados do COMEXSTAT
 
-Dashboard funcional no Power BI
+- Dashboard funcional no Power BI
 
 
 
 ---
 
-13. Métricas de Validação
+**13. Métricas de Validação:**
 
 A validação do MVP foi realizada por meio de testes internos com membros da equipe.
 
@@ -264,51 +264,52 @@ Número de usuários que testaram: 2
 
 Os testes foram realizados por Luiz Augusto (Scrum Master) e Felipe Borges (Team Member).
 
+
 Os feedbacks indicaram:
 
-Facilidade de uso dos filtros
+- Facilidade de uso dos filtros
 
-Clareza das visualizações
+- Clareza das visualizações
 
-Boa organização dos dados
+- Boa organização dos dados
 
 
 
 ---
 
-14. Resultados Obtidos
+**14. Resultados Obtidos:**
 
 Os principais resultados da Sprint 1 foram:
 
-Estruturação eficiente dos dados de exportação
+- Estruturação eficiente dos dados de exportação
 
-Redução da complexidade de análise
+- Redução da complexidade de análise
 
-Geração de insights iniciais sobre padrões de exportação
+- Geração de insights iniciais sobre padrões de exportação
 
-Validação da hipótese de uso de dashboards
+- Validação da hipótese de uso de dashboards
 
 
 
 ---
 
-15. Limitações Identificadas
+**15. Limitações Identificadas:**
 
 As limitações do MVP foram definidas de forma intencional para manter o escopo reduzido:
 
-Análise restrita a exportações
+- Análise restrita a exportações
 
-Período limitado a 2021 e 2022
+- Período limitado a 2021 e 2022
 
-Ausência de sistema web
+- Ausência de sistema web
 
-Dependência do Power BI para visualização
+- Dependência do Power BI para visualização
 
 
 
 ---
 
-16. Conclusão da Sprint 1
+**16. Conclusão da Sprint 1:**
 
 A Sprint 1 cumpriu seu objetivo ao validar a viabilidade da solução proposta.
 

@@ -25,4 +25,4 @@
 
 ---
 
-**- Relatório Técnico:**
+**- Relatório Técnico:** [Sp1_RelatórioTécnico.md]

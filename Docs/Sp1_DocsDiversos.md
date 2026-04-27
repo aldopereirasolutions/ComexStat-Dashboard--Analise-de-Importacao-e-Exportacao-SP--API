@@ -10,4 +10,17 @@
 
 ---
 
-**- Link Vídeo MVP (Youtube):** 
+**- Link Vídeo MVP (Youtube):** https://youtu.be/92MwSK13sgo
+
+---
+
+**-Dados de Exportação:**
+
+---
+
+**-Códigos:**
+
+- 
+-
+
+---

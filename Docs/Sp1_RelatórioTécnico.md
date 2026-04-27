@@ -1,13 +1,11 @@
 ### Relatório Técnico Sprint 1.
 
-Relatório Técnico — Sprint 1
-
 Projeto: Plataforma de Análise de Comércio Exterior dos Municípios do Estado de São Paulo
 
 
 ---
 
-1. Contextualização do Projeto
+**1. Contextualização do Projeto:**
 
 O projeto foi desenvolvido com base na necessidade de análise estruturada dos dados de comércio exterior dos municípios do estado de São Paulo, utilizando como fonte principal os dados abertos disponibilizados pelo Ministério do Desenvolvimento, Indústria, Comércio e Serviços, por meio do sistema COMEXSTAT.
 
@@ -18,7 +16,7 @@ Dessa forma, a Sprint 1 teve como objetivo estruturar a base inicial do sistema 
 
 ---
 
-2. Definição do Objetivo do MVP
+**2. Definição do Objetivo do MVP**
 
 O MVP foi definido como a primeira versão funcional da solução, com escopo reduzido, focada exclusivamente na validação da ideia central do projeto.
 
@@ -29,19 +27,19 @@ A definição desse objetivo foi realizada com base na necessidade de testar rap
 
 ---
 
-3. Definição do Problema
+**3. Definição do Problema:**
 
 O problema foi definido a partir da análise do cenário atual de uso de dados públicos de comércio exterior.
 
 Foi identificado que as informações sobre exportação estão dispersas, com baixa padronização e difícil interpretação, o que gera os seguintes impactos:
 
-Dificuldade na análise de desempenho dos municípios
+- Dificuldade na análise de desempenho dos municípios
 
-Alto tempo de processamento manual de dados
+- Alto tempo de processamento manual de dados
 
-Baixa eficiência na geração de insights estratégicos
+- Baixa eficiência na geração de insights estratégicos
 
-Limitações na comparação entre regiões
+- Limitações na comparação entre regiões
 
 
 A definição do problema orientou diretamente o escopo do MVP, garantindo foco na organização e visualização dos dados.
@@ -49,7 +47,7 @@ A definição do problema orientou diretamente o escopo do MVP, garantindo foco 
 
 ---
 
-4. Definição da Hipótese
+**4. Definição da Hipótese:**
 
 A hipótese do projeto foi definida como:
 
@@ -60,7 +58,7 @@ Essa hipótese foi construída com base no princípio de que a visualização de
 
 ---
 
-5. Definição do Valor Entregue
+**5. Definição do Valor Entregue:**
 
 O valor do MVP foi definido com foco no usuário final e nos benefícios diretos da solução.
 
@@ -68,17 +66,17 @@ O MVP entrega um painel interativo contendo dados filtrados de exportação dos 
 
 As funcionalidades entregues permitem:
 
-Visualização dos fluxos de exportação
+- Visualização dos fluxos de exportação
 
-Identificação de produtos por código NCM
+- Identificação de produtos por código NCM
 
-Análise de valor FOB (US$)
+- Análise de valor FOB (US$)
 
-Identificação de países de destino
+- Identificação de países de destino
 
-Análise das vias e modais de transporte
+- Análise das vias e modais de transporte
 
-Visualização geográfica dos municípios
+- Visualização geográfica dos municípios
 
 
 A definição do valor foi baseada na necessidade de fornecer uma solução prática, mesmo com escopo reduzido.
@@ -86,30 +84,30 @@ A definição do valor foi baseada na necessidade de fornecer uma solução prá
 
 ---
 
-6. Definição da Solução Técnica
+**6. Definição da Solução Técnica:**
 
 A solução foi definida com base em três pilares principais:
 
-Tratamento de dados
+- Tratamento de dados
 
-Estruturação das informações
+- Estruturação das informações
 
-Visualização interativa
+- Visualização interativa
 
 
 Para o tratamento dos dados foi utilizado o Google Colab, devido à sua facilidade de uso, integração com Python e capacidade de manipulação de grandes volumes de dados.
 
 O processo incluiu:
 
-Importação dos dados do COMEXSTAT
+- Importação dos dados do COMEXSTAT
 
-Limpeza dos dados (remoção de inconsistências e padronização)
+- Limpeza dos dados (remoção de inconsistências e padronização)
 
-Seleção dos campos relevantes
+- Seleção dos campos relevantes
 
-Filtragem por período (2021 e 2022)
+- Filtragem por período (2021 e 2022)
 
-Organização em tabelas estruturadas
+- Organização em tabelas estruturadas
 
 
 Após o tratamento, os dados foram exportados para utilização no Power BI.
@@ -117,23 +115,23 @@ Após o tratamento, os dados foram exportados para utilização no Power BI.
 
 ---
 
-7. Estruturação das Tabelas
+**7. Estruturação das Tabelas:**
 
 As tabelas foram definidas com base nas variáveis necessárias para atender às histórias de usuário.
 
 Foi criada uma tabela principal de exportações contendo:
 
-Código NCM
+- Código NCM
 
-Valor FOB (US$)
+- Valor FOB (US$)
 
-País de destino
+- País de destino
 
-Via de transporte
+- Via de transporte
 
-Município
+- Município
 
-Ano
+- Ano
 
 
 A definição dessas colunas foi baseada nas perguntas de análise do projeto, especialmente relacionadas à logística e fluxo de mercadorias.
@@ -141,21 +139,21 @@ A definição dessas colunas foi baseada nas perguntas de análise do projeto, e
 
 ---
 
-8. Desenvolvimento do Dashboard
+**8. Desenvolvimento do Dashboard:**
 
 O dashboard foi desenvolvido no Power BI com foco em usabilidade e validação da hipótese.
 
 Foram implementados:
 
-Gráficos de distribuição de exportação
+- Gráficos de distribuição de exportação
 
-Indicadores de valor total exportado
+- Indicadores de valor total exportado
 
-Segmentações por ano
+- Segmentações por ano
 
-Filtros por país e município
+- Filtros por país e município
 
-Visualização geográfica
+- Visualização geográfica
 
 
 A escolha do Power BI se deu pela sua capacidade de integração com dados estruturados e facilidade de criação de dashboards interativos.
@@ -163,7 +161,7 @@ A escolha do Power BI se deu pela sua capacidade de integração com dados estru
 
 ---
 
-9. Definição das Personas
+**9. Definição das Personas:**
 
 As personas foram definidas com base nos usuários que mais se beneficiariam da solução.
 

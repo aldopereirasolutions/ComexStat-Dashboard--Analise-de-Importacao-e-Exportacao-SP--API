@@ -1,7 +1,7 @@
 ## ✅ Critérios de Validação — Sprint 1
 
-### 🔹 User Story 1
-**Como cliente, quero selecionar países, para analisar dados de exportação por região.**
+### User Story 1
+**"Como cliente, quero selecionar países, para analisar dados de exportação por região."**
 
 **Critérios de validação:**
 - O sistema deve apresentar uma lista de países disponíveis para seleção.
@@ -12,8 +12,8 @@
 
 ---
 
-### 🔹 User Story 2
-**Como cliente, quero visualizar os municípios que realizam exportação, para entender a participação regional.**
+### User Story 2
+**"Como cliente, quero visualizar os municípios que realizam exportação, para entender a participação regional."**
 
 **Critérios de validação:**
 - O dashboard deve exibir uma lista ou visualização dos municípios exportadores.
@@ -24,8 +24,8 @@
 
 ---
 
-### 🔹 User Story 3
-**Como cliente, quero visualizar a soma dos valores em dólar, para entender o volume financeiro do comércio exterior.**
+### User Story 3
+**"Como cliente, quero visualizar a soma dos valores em dólar, para entender o volume financeiro do comércio exterior."**
 
 **Critérios de validação:**
 - O sistema deve calcular automaticamente a soma total dos valores de exportação.
@@ -36,8 +36,8 @@
 
 ---
 
-### 🔹 User Story 4
-**Como cliente, quero visualizar os produtos exportados, para identificar os principais itens comercializados.**
+### User Story 4
+**"Como cliente, quero visualizar os produtos exportados, para identificar os principais itens comercializados."**
 
 **Critérios de validação:**
 - O dashboard deve listar ou representar os produtos exportados.
@@ -48,7 +48,7 @@
 
 ---
 
-### 🔹 User Story 5
+### User Story 5
 **"Como cliente, quero selecionar o ano dos dados, para analisar a evolução ao longo do tempo."**
 
 **Critérios de validação:**
@@ -60,7 +60,7 @@
 
 ---
 
-### 🔹 User Story 6
+### User Story 6
 **"Como cliente, quero visualizar os tipos de vias (aérea e marítima), para analisar como os produtos são transportados."**
 
 **Critérios de validação:**
@@ -72,7 +72,7 @@
 
 ---
 
-### 🔹 User Story 7
+### User Story 7
 **"Como cliente, quero visualizar os locais de destino das mercadorias, para entender os fluxos logísticos."**
 
 **Critérios de validação:**
@@ -82,28 +82,31 @@
 - A visualização deve permitir análise de distribuição geográfica.
 - Os dados devem ser atualizados conforme filtros aplicados.
 
+---
+
 ## DoR Sprint 1:
 ## 📌 Definition of Ready (DoR) – Sprint 1
 
 Antes do início da Sprint 1, todas as User Stories selecionadas devem atender aos critérios abaixo, garantindo que estejam prontas para desenvolvimento.
 
 **Sobre as User Stories:**
-- [ ] Possuem título claro, descrição bem definida e objetivo compreendido
-- [ ] Estão escritas no formato padrão: “Como cliente, quero..., para...”
-- [ ] Possuem critérios de validação definidos
-- [ ] Possuem regras de negócio claras e documentadas
-- [ ] Estão alinhadas ao escopo do projeto (dados de exportação de São Paulo e municípios – 2021 e 2022)
-- [ ] Não possuem dependências bloqueadoras para desenvolvimento
-- [ ] Foram compreendidas e validadas pelo time
+- [x] Possuem título claro, descrição bem definida e objetivo compreendido
+- [x] Estão escritas no formato padrão: “Como cliente, quero..., para...”
+- [x] Possuem critérios de validação definidos
+- [x] Possuem regras de negócio claras e documentadas
+- [x] Estão alinhadas ao escopo do projeto (dados de exportação de São Paulo e municípios – 2021 e 2022)
+- [x] Não possuem dependências bloqueadoras para desenvolvimento
+- [x] Foram compreendidas e validadas pelo time
 
 **Sobre os artefatos correlatos às User Stories:**
-- [ ] Dashboard (Power BI) com estrutura inicial definida (layout ou esboço)
-- [ ] Script base no Google Colab disponível para tratamento dos dados
-- [ ] Fonte de dados (ComexStat) definida e acessível
-- [ ] Tabela de municípios do IBGE disponível para integração
-- [ ] Regras de negócio documentadas (ex: definição de métricas como valor em dólar)
-- [ ] Estrutura de versionamento definida no GitHub
-- [ ] Estratégia de testes definida (validação dos dados e consistência das informações)
+- [x] Dashboard (Power BI) com estrutura inicial definida (layout ou esboço)
+- [x] Script base no Google Colab disponível para tratamento dos dados
+- [x] Fonte de dados (ComexStat) definida e acessível
+- [x] Regras de negócio documentadas (ex: definição de métricas como valor em dólar)
+- [x] Estrutura de versionamento definida no GitHub
+- [x] Estratégia de testes definida (validação dos dados e consistência das informações)
+
+---
 
 ## DoD da Sprint 1:
 
@@ -112,19 +115,19 @@ Antes do início da Sprint 1, todas as User Stories selecionadas devem atender a
 Antes do início da Sprint 1, todas as User Stories selecionadas devem atender aos critérios abaixo, garantindo que estejam prontas para desenvolvimento.
 
 **Sobre as User Stories:**
-- [ ] Possuem título claro, descrição bem definida e objetivo compreendido
-- [ ] Estão escritas no formato padrão: “Como cliente, quero..., para...”
-- [ ] Possuem critérios de validação definidos
-- [ ] Possuem regras de negócio claras e documentadas
-- [ ] Estão alinhadas ao escopo do projeto (dados de exportação de São Paulo e municípios – 2021 e 2022)
-- [ ] Não possuem dependências bloqueadoras para desenvolvimento
-- [ ] Foram compreendidas e validadas pelo time
+- [x] Possuem título claro, descrição bem definida e objetivo compreendido
+- [x] Estão escritas no formato padrão: “Como cliente, quero..., para...”
+- [x] Possuem critérios de validação definidos
+- [x] Possuem regras de negócio claras e documentadas
+- [x] Estão alinhadas ao escopo do projeto (dados de exportação de São Paulo e municípios – 2021 e 2022)
+- [x] Não possuem dependências bloqueadoras para desenvolvimento
+- [x] Foram compreendidas e validadas pelo time
 
 **Sobre os artefatos correlatos às User Stories**:
-- [ ] Dashboard (Power BI) com estrutura inicial definida (layout ou esboço)
-- [ ] Script base no Google Colab disponível para tratamento dos dados
-- [ ] Fonte de dados (ComexStat) definida e acessível
-- [ ] Tabela de municípios do IBGE disponível para integração
-- [ ] Regras de negócio documentadas (ex: definição de métricas como valor em dólar)
-- [ ] Estrutura de versionamento definida no GitHub
-- [ ] Estratégia de testes definida (validação dos dados e consistência das informações)
+- [x] Dashboard (Power BI) com estrutura inicial definida (layout ou esboço)
+- [x] Script base no Google Colab disponível para tratamento dos dados
+- [x] Fonte de dados (ComexStat) definida e acessível
+- [x] Tabela de municípios do IBGE disponível para integração
+- [x] Regras de negócio documentadas (ex: definição de métricas como valor em dólar)
+- [x] Estrutura definida no GitHub
+- [x] Estratégia de testes definida (validação dos dados e consistência das informações)

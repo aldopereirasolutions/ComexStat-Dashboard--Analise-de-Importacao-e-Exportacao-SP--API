@@ -24,5 +24,3 @@
 - https://drive.google.com/drive/u/3/folders/1OVMyGKbBzg-0-vlNbANG84wm4vDldCJl)
 
 ---
-
-**- Relatório Técnico:** [Sp1_RelatórioTécnico.md](relatório técnico)

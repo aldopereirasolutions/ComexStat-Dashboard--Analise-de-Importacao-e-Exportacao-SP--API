@@ -29,12 +29,13 @@ Nesta sprint, foi desenvolvida uma base inicial de análise de dados de comérci
 - Interface limitada ao Power BI (não acessível externamente).
 
 
-Escopo reduzido (MVP)
+**Escopo reduzido (MVP):**
 
 - Estruturação dos dados;
 - Capacidade de filtragem;
 - Geração de insights básicos via visualização.
 
+---
 
 ## Personas / Usuários-Alvo
 
@@ -54,6 +55,8 @@ Escopo reduzido (MVP)
 - Necessidades: O analista de logística busca entender quais vias de transporte e modais são mais utilizadas. Entretanto, a falta de dados integrados e de fácil visualização dificulta a análise logística completa.
 - Dores atendidas: Disponibilização de dados sobre modais de transporte e suas respectivas vias, facilitando a identificação de padrões logísticos e contribuindo para a otimização das operações.
 
+---
+
 ## User Stories (Backlog do MVP)
 | Rank | Prioridade | User Story (Sprint 1) | Sprint |
 |------|------------|----------------------|--------|
@@ -65,6 +68,7 @@ Escopo reduzido (MVP)
 | 6 | Média | Como cliente, quero visualizar os tipos de vias (aérea e marítima), para analisar como os produtos são transportados. | 1 |
 | 7 | Média | Como cliente, quero visualizar os locais de destino das mercadorias, para entender os fluxos logísticos. | 1 |
 
+---
 
 ## Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
@@ -72,12 +76,14 @@ Escopo reduzido (MVP)
 | 01     | Tabelas de exportação, Desenvolvimento inicial do dashboard no Power BI, Filtro de dados para São Paulo.                        | Concluído|
 | 02     | Expansão e continuidade do projeto seguindo correções e feedbakcs                           | Em andamento |
 
+---
 
 ## Critérios de Aceitação
 - O MVP deve permitir que o usuário visualize e analise dados de exportação por município e período.  
 - O sistema deve registrar os dados de comércio exterior estruturados em tabelas de exportação garantindo a consistência das informações.
 - Métricas coletadas: tempo de resposta do dashboard, nível de interação com gráficos (cliques e seleções) e visualização clara.  
 
+---
 
 ## Métricas de Validação
 
@@ -126,7 +132,7 @@ De forma geral, os feedbacks foram positivos, destacando a organização dos dad
 
 <img width="1600" height="518" alt="WhatsApp Image 2026-04-26 at 22 30 20" src="https://github.com/user-attachments/assets/8f585a79-fd3f-4d24-b414-a6ffe9a9d1c9" />
 
-
+---
     
 **- Fluxos ou protótipos:**  
 

@@ -49,7 +49,7 @@
 ---
 
 ### 🔹 User Story 5
-**Como cliente, quero selecionar o ano dos dados, para analisar a evolução ao longo do tempo.**
+**"Como cliente, quero selecionar o ano dos dados, para analisar a evolução ao longo do tempo."**
 
 **Critérios de validação:**
 - O sistema deve permitir selecionar o ano (2021 ou 2022).
@@ -61,7 +61,7 @@
 ---
 
 ### 🔹 User Story 6
-**Como cliente, quero visualizar os tipos de vias (aérea e marítima), para analisar como os produtos são transportados.**
+**"Como cliente, quero visualizar os tipos de vias (aérea e marítima), para analisar como os produtos são transportados."**
 
 **Critérios de validação:**
 - O dashboard deve exibir os modais de transporte utilizados.
@@ -73,7 +73,7 @@
 ---
 
 ### 🔹 User Story 7
-**Como cliente, quero visualizar os locais de destino das mercadorias, para entender os fluxos logísticos.**
+**"Como cliente, quero visualizar os locais de destino das mercadorias, para entender os fluxos logísticos."**
 
 **Critérios de validação:**
 - O sistema deve apresentar os países ou regiões de destino das exportações.
@@ -83,3 +83,48 @@
 - Os dados devem ser atualizados conforme filtros aplicados.
 
 ## DoR Sprint 1:
+## 📌 Definition of Ready (DoR) – Sprint 1
+
+Antes do início da Sprint 1, todas as User Stories selecionadas devem atender aos critérios abaixo, garantindo que estejam prontas para desenvolvimento.
+
+**Sobre as User Stories:**
+- [ ] Possuem título claro, descrição bem definida e objetivo compreendido
+- [ ] Estão escritas no formato padrão: “Como cliente, quero..., para...”
+- [ ] Possuem critérios de validação definidos
+- [ ] Possuem regras de negócio claras e documentadas
+- [ ] Estão alinhadas ao escopo do projeto (dados de exportação de São Paulo e municípios – 2021 e 2022)
+- [ ] Não possuem dependências bloqueadoras para desenvolvimento
+- [ ] Foram compreendidas e validadas pelo time
+
+**Sobre os artefatos correlatos às User Stories:**
+- [ ] Dashboard (Power BI) com estrutura inicial definida (layout ou esboço)
+- [ ] Script base no Google Colab disponível para tratamento dos dados
+- [ ] Fonte de dados (ComexStat) definida e acessível
+- [ ] Tabela de municípios do IBGE disponível para integração
+- [ ] Regras de negócio documentadas (ex: definição de métricas como valor em dólar)
+- [ ] Estrutura de versionamento definida no GitHub
+- [ ] Estratégia de testes definida (validação dos dados e consistência das informações)
+
+## DoD da Sprint 1:
+
+## 📌 Definition of Ready (DoR) – Sprint 1
+
+Antes do início da Sprint 1, todas as User Stories selecionadas devem atender aos critérios abaixo, garantindo que estejam prontas para desenvolvimento.
+
+**Sobre as User Stories:**
+- [ ] Possuem título claro, descrição bem definida e objetivo compreendido
+- [ ] Estão escritas no formato padrão: “Como cliente, quero..., para...”
+- [ ] Possuem critérios de validação definidos
+- [ ] Possuem regras de negócio claras e documentadas
+- [ ] Estão alinhadas ao escopo do projeto (dados de exportação de São Paulo e municípios – 2021 e 2022)
+- [ ] Não possuem dependências bloqueadoras para desenvolvimento
+- [ ] Foram compreendidas e validadas pelo time
+
+**Sobre os artefatos correlatos às User Stories**:
+- [ ] Dashboard (Power BI) com estrutura inicial definida (layout ou esboço)
+- [ ] Script base no Google Colab disponível para tratamento dos dados
+- [ ] Fonte de dados (ComexStat) definida e acessível
+- [ ] Tabela de municípios do IBGE disponível para integração
+- [ ] Regras de negócio documentadas (ex: definição de métricas como valor em dólar)
+- [ ] Estrutura de versionamento definida no GitHub
+- [ ] Estratégia de testes definida (validação dos dados e consistência das informações)

@@ -1,155 +1,321 @@
-### Relatório Técnico – Sprint 1
+### Relatório Técnico Sprint 1.
 
-## 1. Contextualização da Sprint
+Relatório Técnico — Sprint 1
 
-A Sprint 1 teve como objetivo a construção da base funcional do sistema de análise de dados de exportação do estado de São Paulo e seus municípios, considerando exclusivamente o período de 2021 e 2022. O foco principal foi disponibilizar as primeiras funcionalidades de exploração e visualização de dados, garantindo valor imediato ao usuário final.
+Projeto: Plataforma de Análise de Comércio Exterior dos Municípios do Estado de São Paulo
 
-A definição do escopo priorizou funcionalidades essenciais que permitissem ao cliente interagir com os dados sem necessidade de manipulação técnica direta, alinhando-se ao conceito de entrega incremental do framework Scrum.
-
----
-
-## 2. Objetivos da Sprint
-
-- Disponibilizar visualizações iniciais de dados de exportação
-- Permitir filtragem básica por dimensões relevantes (país, município, ano, produto)
-- Apresentar métricas agregadas de valor financeiro
-- Introduzir análises logísticas iniciais (vias de transporte e destinos)
-
-A Sprint foi estruturada para garantir que, ao final, o sistema já pudesse ser utilizado para análises exploratórias reais.
 
 ---
 
-## 3. User Stories da Sprint 1
+1. Contextualização do Projeto
 
-As User Stories foram definidas seguindo o padrão:
+O projeto foi desenvolvido com base na necessidade de análise estruturada dos dados de comércio exterior dos municípios do estado de São Paulo, utilizando como fonte principal os dados abertos disponibilizados pelo Ministério do Desenvolvimento, Indústria, Comércio e Serviços, por meio do sistema COMEXSTAT.
 
-Como <tipo de usuário>, quero <funcionalidade>, para <valor de negócio>
+A motivação do projeto está diretamente relacionada à dificuldade de acesso, interpretação e análise dos dados de exportação, que se encontram dispersos e pouco organizados para uso prático. Esse cenário dificulta a identificação de padrões logísticos, análise de desempenho municipal e apoio à tomada de decisão estratégica.
 
-Foi mantido o tipo de usuário "cliente", conforme definição do projeto.
+Dessa forma, a Sprint 1 teve como objetivo estruturar a base inicial do sistema e validar a proposta por meio de um Produto Mínimo Viável.
 
-**Lista de User Stories:**
-
-1. Como cliente, quero selecionar países, para analisar dados de exportação por região.
-2. Como cliente, quero visualizar os municípios que realizam exportação, para entender a participação regional.
-3. Como cliente, quero visualizar a soma dos valores em dólar, para entender o volume financeiro do comércio exterior.
-4. Como cliente, quero visualizar os produtos exportados, para identificar os principais itens comercializados.
-5. Como cliente, quero selecionar o ano dos dados, para analisar a evolução ao longo do tempo.
-6. Como cliente, quero visualizar os tipos de vias (aérea e marítima), para analisar como os produtos são transportados.
-7. Como cliente, quero visualizar os locais de destino das mercadorias, para entender os fluxos logísticos.
 
 ---
 
-## 4. Processo de Definição das User Stories
+2. Definição do Objetivo do MVP
 
-As User Stories foram elaboradas com base nos seguintes critérios:
+O MVP foi definido como a primeira versão funcional da solução, com escopo reduzido, focada exclusivamente na validação da ideia central do projeto.
 
-- Identificação das necessidades principais de análise de dados de exportação
-- Priorização de funcionalidades que agregam valor imediato ao usuário
-- Uso de linguagem simples e orientada ao negócio
-- Foco em funcionalidades independentes e entregáveis dentro de uma única Sprint
+O objetivo do MVP é validar a capacidade de análise e visualização de dados de comércio exterior no estado de São Paulo e seus municípios.
 
-A escolha das funcionalidades considerou o fluxo natural de análise de dados, iniciando por filtros básicos e evoluindo para visualizações mais analíticas.
+A definição desse objetivo foi realizada com base na necessidade de testar rapidamente a viabilidade da solução antes de expandir o sistema para funcionalidades mais complexas, como integração web e análise completa de todos os municípios.
+
 
 ---
 
-## 5. Critérios de Validação das User Stories
+3. Definição do Problema
 
-Os critérios de validação foram definidos para garantir que cada User Story seja mensurável e verificável ao final da Sprint, conforme o conceito de "Confirmação" dos 3Cs.
+O problema foi definido a partir da análise do cenário atual de uso de dados públicos de comércio exterior.
 
-A definição seguiu os seguintes princípios:
+Foi identificado que as informações sobre exportação estão dispersas, com baixa padronização e difícil interpretação, o que gera os seguintes impactos:
 
-- Clareza: cada critério descreve exatamente o comportamento esperado
-- Testabilidade: deve ser possível validar de forma objetiva
-- Orientação ao usuário: valida se a funcionalidade atende ao valor proposto
+Dificuldade na análise de desempenho dos municípios
 
-Critérios por User Story
+Alto tempo de processamento manual de dados
 
-User Story 1
+Baixa eficiência na geração de insights estratégicos
 
-- Deve existir um filtro de seleção de países
-- A seleção deve atualizar os dados exibidos no dashboard
-- O sistema deve permitir seleção de um ou múltiplos países
+Limitações na comparação entre regiões
 
-User Story 2
 
-- O dashboard deve exibir os municípios que realizam exportação
-- Os municípios devem ser apresentados de forma organizada (tabela, gráfico ou mapa)
-- Deve refletir corretamente os dados filtrados
+A definição do problema orientou diretamente o escopo do MVP, garantindo foco na organização e visualização dos dados.
 
-User Story 3
-
-- Deve ser exibida a soma total dos valores de exportação em dólar
-- O valor deve ser atualizado conforme filtros aplicados
-- O cálculo deve considerar apenas o período de 2021 e 2022
-
-User Story 4
-
-- Deve existir visualização dos produtos exportados
-- Os produtos devem ser agrupados por categoria (ex: NCM)
-- Deve ser possível identificar os principais produtos
-
-User Story 5
-
-- Deve existir filtro de seleção por ano
-- O usuário deve poder alternar entre 2021 e 2022
-- As visualizações devem ser atualizadas conforme o ano selecionado
-
-User Story 6
-
-- Deve ser exibida a divisão por tipo de via (aérea e marítima)
-- Os dados devem refletir corretamente o volume de exportação por modal
-- A visualização deve permitir comparação entre os tipos
-
-User Story 7
-
-- Deve ser exibido o destino das exportações
-- Os dados devem apresentar os principais países ou regiões de destino
-- Deve ser possível identificar padrões logísticos
 
 ---
 
-## 6. Justificativa de Priorização
+4. Definição da Hipótese
 
-As User Stories da Sprint 1 foram classificadas como alta e média prioridade com base no valor de negócio entregue.
+A hipótese do projeto foi definida como:
 
-Critérios utilizados:
+Se os dados de comércio exterior forem organizados, filtrados e apresentados de forma visual e interativa utilizando o Power BI, será possível identificar padrões relevantes de exportação e facilitar análises estratégicas.
 
-- Impacto direto na análise de dados
-- Frequência de uso esperada
-- Dependência para funcionalidades futuras
+Essa hipótese foi construída com base no princípio de que a visualização de dados melhora significativamente a capacidade de interpretação e tomada de decisão.
 
-As funcionalidades de filtro (país e ano) e métricas principais (valor total e produtos) foram priorizadas por serem essenciais para qualquer análise. Já as funcionalidades logísticas foram classificadas como média prioridade por agregarem valor analítico adicional, mas não serem críticas para uso inicial.
 
 ---
 
-## 7. Aderência ao Modelo INVEST
+5. Definição do Valor Entregue
 
-As User Stories foram avaliadas conforme os critérios INVEST:
+O valor do MVP foi definido com foco no usuário final e nos benefícios diretos da solução.
 
-- Independent: cada funcionalidade pode ser implementada separadamente
-- Negotiable: detalhes podem ser ajustados durante a Sprint
-- Valuable: todas entregam valor direto ao cliente
-- Estimable: possuem escopo claro para planejamento
-- Small: são implementáveis dentro da Sprint 1
-- Testable: possuem critérios de validação definidos
+O MVP entrega um painel interativo contendo dados filtrados de exportação dos anos de 2021 e 2022 dos municípios do estado de São Paulo.
+
+As funcionalidades entregues permitem:
+
+Visualização dos fluxos de exportação
+
+Identificação de produtos por código NCM
+
+Análise de valor FOB (US$)
+
+Identificação de países de destino
+
+Análise das vias e modais de transporte
+
+Visualização geográfica dos municípios
+
+
+A definição do valor foi baseada na necessidade de fornecer uma solução prática, mesmo com escopo reduzido.
+
 
 ---
 
-## 8. Resultado Esperado da Sprint
+6. Definição da Solução Técnica
 
-Ao final da Sprint 1, espera-se que o sistema permita:
+A solução foi definida com base em três pilares principais:
 
-- Exploração básica dos dados de exportação
-- Visualização de métricas principais
-- Aplicação de filtros fundamentais
-- Análise inicial de padrões comerciais e logísticos
+Tratamento de dados
 
-O produto resultante já deve ser utilizável para tomada de decisão preliminar, mesmo que funcionalidades mais avançadas ainda não estejam disponíveis.
+Estruturação das informações
+
+Visualização interativa
+
+
+Para o tratamento dos dados foi utilizado o Google Colab, devido à sua facilidade de uso, integração com Python e capacidade de manipulação de grandes volumes de dados.
+
+O processo incluiu:
+
+Importação dos dados do COMEXSTAT
+
+Limpeza dos dados (remoção de inconsistências e padronização)
+
+Seleção dos campos relevantes
+
+Filtragem por período (2021 e 2022)
+
+Organização em tabelas estruturadas
+
+
+Após o tratamento, os dados foram exportados para utilização no Power BI.
+
 
 ---
 
-## 9. Considerações Finais
+7. Estruturação das Tabelas
 
-A Sprint 1 foi estruturada para maximizar entrega de valor com o menor nível de complexidade possível. A abordagem adotada permite que o sistema seja evoluído incrementalmente nas próximas Sprints, mantendo sempre um produto funcional.
+As tabelas foram definidas com base nas variáveis necessárias para atender às histórias de usuário.
 
-A definição clara das User Stories e seus critérios de validação garante alinhamento entre desenvolvimento e necessidade do cliente, reduzindo retrabalho e aumentando a qualidade das entregas.
+Foi criada uma tabela principal de exportações contendo:
+
+Código NCM
+
+Valor FOB (US$)
+
+País de destino
+
+Via de transporte
+
+Município
+
+Ano
+
+
+A definição dessas colunas foi baseada nas perguntas de análise do projeto, especialmente relacionadas à logística e fluxo de mercadorias.
+
+
+---
+
+8. Desenvolvimento do Dashboard
+
+O dashboard foi desenvolvido no Power BI com foco em usabilidade e validação da hipótese.
+
+Foram implementados:
+
+Gráficos de distribuição de exportação
+
+Indicadores de valor total exportado
+
+Segmentações por ano
+
+Filtros por país e município
+
+Visualização geográfica
+
+
+A escolha do Power BI se deu pela sua capacidade de integração com dados estruturados e facilidade de criação de dashboards interativos.
+
+
+---
+
+9. Definição das Personas
+
+As personas foram definidas com base nos usuários que mais se beneficiariam da solução.
+
+Analista Institucional de Dados (CADI): responsável por analisar o desempenho dos municípios. Necessita de dados organizados e visualizações eficientes para reduzir o tempo de análise.
+
+Estudante/Pesquisador: utiliza os dados para fins acadêmicos. Necessita de dados estruturados e confiáveis para desenvolvimento de estudos.
+
+Analista de Logística: responsável por entender modais e rotas. Necessita de dados claros sobre transporte e fluxo de mercadorias.
+
+A definição das personas orientou diretamente as funcionalidades do MVP.
+
+
+---
+
+10. Definição das Histórias de Usuário
+
+As histórias de usuário foram definidas utilizando a estrutura padrão ágil:
+
+“Como [usuário], quero [funcionalidade], para [objetivo]”.
+
+A priorização foi realizada com base no impacto para validação do MVP.
+
+Histórias de alta prioridade foram escolhidas por serem essenciais para validar a hipótese, incluindo:
+
+Seleção de países
+
+Visualização de municípios
+
+Análise de valores em dólar
+
+Identificação de produtos
+
+Filtro por ano
+
+
+Histórias de média prioridade foram incluídas para enriquecer a análise:
+
+Visualização de vias de transporte
+
+Identificação de destinos
+
+
+
+---
+
+11. Definição dos Critérios de Aceitação
+
+Os critérios de aceitação foram definidos para garantir que cada história de usuário fosse considerada concluída apenas quando atendesse requisitos mínimos.
+
+Os principais critérios definidos foram:
+
+O usuário deve conseguir visualizar dados por município
+
+O usuário deve conseguir filtrar dados por período
+
+Os dados devem estar estruturados corretamente em tabelas
+
+O dashboard deve apresentar visualização clara e interativa
+
+
+Esses critérios foram definidos com base na necessidade de validar a hipótese do projeto.
+
+
+---
+
+12. Execução da Sprint 1
+
+A Sprint 1 foi executada seguindo o processo ágil com as seguintes etapas:
+
+Definição do backlog
+
+Priorização das tarefas
+
+Desenvolvimento das tabelas
+
+Tratamento dos dados
+
+Construção do dashboard
+
+Testes internos
+
+
+As entregas principais foram:
+
+Tabela de exportações estruturada
+
+Dados tratados do COMEXSTAT
+
+Dashboard funcional no Power BI
+
+
+
+---
+
+13. Métricas de Validação
+
+A validação do MVP foi realizada por meio de testes internos com membros da equipe.
+
+Número de usuários que testaram: 2
+
+Os testes foram realizados por Luiz Augusto (Scrum Master) e Felipe Borges (Team Member).
+
+Os feedbacks indicaram:
+
+Facilidade de uso dos filtros
+
+Clareza das visualizações
+
+Boa organização dos dados
+
+
+
+---
+
+14. Resultados Obtidos
+
+Os principais resultados da Sprint 1 foram:
+
+Estruturação eficiente dos dados de exportação
+
+Redução da complexidade de análise
+
+Geração de insights iniciais sobre padrões de exportação
+
+Validação da hipótese de uso de dashboards
+
+
+
+---
+
+15. Limitações Identificadas
+
+As limitações do MVP foram definidas de forma intencional para manter o escopo reduzido:
+
+Análise restrita a exportações
+
+Período limitado a 2021 e 2022
+
+Ausência de sistema web
+
+Dependência do Power BI para visualização
+
+
+
+---
+
+16. Conclusão da Sprint 1
+
+A Sprint 1 cumpriu seu objetivo ao validar a viabilidade da solução proposta.
+
+Foi possível comprovar que a organização e visualização dos dados de comércio exterior permitem uma análise mais eficiente e acessível.
+
+O MVP demonstrou que mesmo com um escopo reduzido é possível gerar valor ao usuário e validar a hipótese central do projeto.
+
+A partir dessa base, o projeto poderá evoluir para incluir novas funcionalidades, expansão de dados e desenvolvimento de uma plataforma completa.

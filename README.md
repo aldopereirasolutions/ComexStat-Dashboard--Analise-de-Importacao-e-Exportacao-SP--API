@@ -47,6 +47,7 @@ Os objetivos estabelecidos para esse projeto consistem em:
 * Power BI
 * Microsoft Excel
 * Python (Colab)
+* Github
 
 ---
 

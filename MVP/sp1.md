@@ -20,7 +20,7 @@ Nesta sprint, foi desenvolvida uma base inicial de análise de dados de comérci
 - Dados COMEXSTAT tratados;
 - Gráficos interativos;
 - Interação com filtros.
-- Visualização de: Código NCM (produto), Valor FOB (US$), País de destino, Pia de transporte, Modais e Mapa dos países.
+- Visualização de: Código NCM (produto), Valor FOB (US$), País de destino, Via de transporte, Modais e Mapa dos países.
 
 
 **Limitações conhecidas:**

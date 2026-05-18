@@ -34,22 +34,41 @@ Os dados serão ampliados para os anos de 2023 a 2026, incorporando filtros por 
 **Limitações conhecidas:**
 
 - Plataforma ainda limitada ao Power BI;
-
-- Dados ainda dependem de tratamento manual;
-
-- Site da plataforma ainda não finalizado;
-
-- Algumas análises avançadas ainda não foram implementadas.
+- Dependência de tratamento manual dos dados;
+- Plataforma web ainda não implementada;
+- Algumas análises avançadas ainda não foram adicionadas.
 
 **Escopo reduzido:**
 
-O MVP desta sprint está focado apenas na expansão dos dashboards e melhoria das análises por município, sem implementação completa da plataforma web.
+- Expansão e reorganização dos dashboards;
+- Inclusão de dados de importação;
+- Implementação de filtros municipais;
+- Melhoria visual e estrutural das análises.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+
+## - Persona 1: Analista Institucional de Dados (CADI)**
+Profissional responsável por acompanhar o desempenho econômico e comercial dos municípios do estado de São Paulo.
+
+**Necessidades:**
+Necessita analisar grandes volumes de dados de comércio exterior para identificar padrões, tendências e comparações regionais. Entretanto, enfrenta dificuldades devido à falta de organização e padronização das informações.
+
+**Dores atendidas:**
+O MVP disponibiliza dashboards organizados e filtros por municípios, permitindo análises mais rápidas, comparações eficientes e melhor interpretação dos indicadores econômicos.
+    
+## Persona 2: Estudante/Pesquisador
+Usuário acadêmico que realiza pesquisas relacionadas à logística, economia e comércio exterior.
+
+**Necessidades:**
+Precisa acessar dados estruturados e confiáveis para desenvolvimento de estudos e análises exploratórias, reduzindo o tempo gasto com coleta e tratamento manual das informações.
+
+**Dores atendidas:**
+O MVP oferece uma base de dados organizada e dashboards interativos, facilitando análises acadêmicas e interpretação de padrões comerciais.
+
+
+ 
 
 ---
 

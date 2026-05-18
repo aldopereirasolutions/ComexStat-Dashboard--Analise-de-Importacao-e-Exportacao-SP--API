@@ -1,37 +1,35 @@
 # 📌 MVP - Aldo Pereira Solutions.
 
 ## 🎯 Objetivo do MVP
-O MVP da Sprint 2 tem como objetivo expandir e melhorar a plataforma de BI desenvolvida na Sprint 1, permitindo análises mais completas sobre importação e exportação dos municípios do estado de São Paulo.
+O MVP (Produto Mínimo Viável) da Sprint 2 tem como objetivo ampliar e aprimorar a plataforma de BI desenvolvida na Sprint 1, expandindo as análises de comércio exterior dos municípios do estado de São Paulo por meio de dashboards mais completos e interativos.
 
-- **Problema a ser resolvido:** A dificuldade de visualizar e interpretar dados de comércio exterior de forma organizada e comparativa, especialmente em relação aos municípios paulistas.
+- **Problema a ser resolvido:** 
+Atualmente, os dados de importação e exportação encontram-se dispersos e com baixa padronização visual, dificultando análises comparativas, identificação de tendências econômicas e interpretação de indicadores logísticos dos municípios paulistas.
 
-- **Hipótese a ser validada:** A ampliação dos dashboards, juntamente com filtros por municípios e novos indicadores de importação, permitirá análises mais eficientes e detalhadas para diferentes tipos de usuários.
+- **Hipótese a ser validada:** Se os dashboards forem ampliados com novos indicadores, filtros por municípios e dados atualizados de importação e exportação, será possível realizar análises mais detalhadas e eficientes, facilitando a interpretação dos dados e apoiando a tomada de decisão.
 
-- **Valor entregue:** Uma plataforma com dashboards mais completos, organizados e interativos, possibilitando análises mais aprofundadas sobre produtos, países, custos logísticos e desempenho comercial dos municípios.
+- **Valor entregue:** O MVP entrega dashboards interativos contendo informações de comércio exterior entre 2023 e 2026, permitindo visualizar dados de importação e exportação dos municípios paulistas, identificar produtos comercializados, países envolvidos nas operações, custos logísticos e indicadores estatísticos de forma organizada e acessível.
 
 ---
 
 ## 📝 Descrição da Solução
-Nesta etapa, serão realizadas melhorias nos dashboards desenvolvidos anteriormente, ampliando os dados para os anos de 2023 a 2026 e adicionando filtros por municípios do estado de São Paulo.
-Também serão desenvolvidos novos dashboards de importação, além de uma tabela específica do município de São José dos Campos.
+Nesta sprint, será realizada a continuidade do projeto iniciado anteriormente, com melhorias estruturais e visuais nos dashboards existentes, além da criação de novos painéis voltados para análise de importação.
+
+Os dados serão ampliados para os anos de 2023 a 2026, incorporando filtros por municípios do estado de São Paulo.
 
 **Funcionalidades principais incluídas:**
 
-- Expansão dos dashboards de exportação (2023–2026);
-
+- Expansão dos dashboards de exportação (2023 a 2026);
+- Criação de dashboards de importação;
 - Filtros por municípios do estado de São Paulo;
-
-- Dashboards de importação;
-
-- Visualização de Valor FOB, frete e seguro;
-
-- Lista de produtos importados;
-
-- Visualização de países importados;
-
-- Quantidade estatística dos produtos;
-
-- Organização e melhoria visual dos dashboards.
+- **Visualização de:**
+  - Valor FOB;
+  - Valor de frete;
+  - Valor de seguro;
+  - Produtos importados;
+  - Países de origem;
+  - Quantidade estatística;
+- Organização e melhoria visual dos dashboards;
 
 **Limitações conhecidas:**
 

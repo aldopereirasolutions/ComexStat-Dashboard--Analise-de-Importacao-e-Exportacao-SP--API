@@ -1,10 +1,9 @@
 # 📌 MVP - Aldo Pereira Solutions.
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+O objetivo do MVP da Sprint 2 é aprimorar e expandir os dashboards desenvolvidos anteriormente, permitindo uma análise mais completa dos dados de exportação e importação do estado de São Paulo, com foco especial no município de São José dos Campos. O projeto busca facilitar a visualização e interpretação das informações comerciais, oferecendo filtros por municípios e ampliando os anos analisados entre 2023 e 2026.
+
+Com isso, pretende-se validar a hipótese de que dashboards mais organizados, completos e interativos contribuem para uma análise mais eficiente dos dados econômicos e auxiliam na tomada de decisão. Além disso, o MVP entregará ao usuário uma plataforma expandida mais estruturada, intuitiva e funcional para consulta de informações de comércio exterior. 
 
 ---
 

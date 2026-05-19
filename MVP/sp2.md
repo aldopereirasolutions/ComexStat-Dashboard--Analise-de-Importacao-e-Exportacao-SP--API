@@ -49,7 +49,7 @@ Os dados serão ampliados para os anos de 2023 a 2026, incorporando filtros por 
 
 ## 👥 Personas / Usuários-Alvo
 
-## - Persona 1: Analista Institucional de Dados (CADI)**
+## - Persona 1: Analista Institucional de Dados (CADI)
 Profissional responsável por acompanhar o desempenho econômico e comercial dos municípios do estado de São Paulo.
 
 **Necessidades:**
@@ -67,7 +67,12 @@ Precisa acessar dados estruturados e confiáveis para desenvolvimento de estudos
 **Dores atendidas:**
 O MVP oferece uma base de dados organizada e dashboards interativos, facilitando análises acadêmicas e interpretação de padrões comerciais.
 
+## Persona 3: Analista de Logística
+Profissional responsável pelo planejamento e análise das operações logísticas e comerciais.
 
+**Necessidades:** Busca compreender custos logísticos, países envolvidos nas operações comerciais e produtos movimentados, porém enfrenta dificuldades devido à falta de visualização integrada dessas informações.
+
+**Dores atendidas:** O MVP disponibiliza dashboards específicos de importação contendo indicadores logísticos, custos de transporte, produtos importados e quantidade estatística, facilitando análises operacionais.
  
 
 ---

@@ -78,10 +78,14 @@ Profissional responsável pelo planejamento e análise das operações logístic
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| Rank | Prioridade | User Story (Sprint 2) | Sprint |
+|------|------------|----------------------|--------|
+| 1 | Alta | Como cliente, quero otimizar e padronizar as planilhas iniciais, para garantir que os dados estejam limpos, consistentes e prontos para análise no dashboard. | 2 |
+| 2 | Alta | Como cliente, quero organizar e criar novas planilhas segmentadas por tema (importações, exportações, modais e países), para facilitar o cruzamento de informações e a construção das análises. | 2 |
+| 3 | Alta | Como cliente, quero visualizar a análise da balança comercial com comparações entre importações e exportações ao longo do tempo, para identificar tendências, avaliar o desempenho econômico e apoiar a tomada de decisões estratégicas. | 2 |
+| 4 | Média | Como cliente, quero identificar os modais de transporte predominantes no estado de SP, para entender a logística e priorizar investimentos. | 2 |
+| 5 | Média | Como cliente, quero filtrar e selecionar produtos específicos dentro da base de dados, para analisar seu desempenho comercial, identificar tendências e comparar resultados ao longo do tempo. | 2 |
+| 6 | Média | Como cliente, quero visualizar a evolução histórica das importações de SJC por categoria de produto, para monitorar a dependência de insumos externos e o crescimento industrial. | 2 |
 
 ---
 

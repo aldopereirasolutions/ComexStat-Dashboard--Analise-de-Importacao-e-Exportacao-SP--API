@@ -92,15 +92,21 @@ Profissional responsável pelo planejamento e análise das operações logístic
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Tabelas de exportação, Desenvolvimento inicial do dashboard no Power BI, Filtro de dados para São Paulo.                        | Concluído|
+| 02     | Expansão dos dashboards, dashboards de importação, filtros por municípios e melhorias organizacionais.                           | Concluído |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário visualize e analise dados de importação e exportação por municípios do estado de São Paulo utilizando dashboards interativos e filtros dinâmicos.
+- O sistema deve registrar os dados de comércio exterior organizados em tabelas estruturadas, garantindo clareza e consistência das informações apresentadas.
+- Métricas coletadas:
+  - Tempo de resposta dos dashboards;
+  - Taxa de utilização dos filtros;
+  - Tempo médio de navegação;
+  - Número de análises realizadas;
+  - Desempenho no carregamento das visualizações.
+
 
 ---
 

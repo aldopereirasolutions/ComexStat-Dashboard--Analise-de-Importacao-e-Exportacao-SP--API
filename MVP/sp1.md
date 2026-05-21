@@ -14,7 +14,7 @@ O MVP (Produto Mínimo Viável) tem como propósito validar a capacidade de aná
 ## Descrição da Solução
 Nesta sprint, foi desenvolvida uma base inicial de análise de dados de comércio exterior, utilizando Python (Google Colab) para tratamento de dados e Power BI para visualização.
 
-**✔ Funcionalidades principais:** 
+**Funcionalidades principais:** 
 
 - Criação de tabelas de exportação de São Paulo e municípios (2021 a 2022);
 - Dados COMEXSTAT tratados;
@@ -117,7 +117,7 @@ De forma geral, os feedbacks foram positivos, destacando a organização dos dad
 
 ##  Anexos / Evidências
 
-- ** Prints de tela:**
+** Prints de tela:**
   
 <img width="1313" height="735" alt="WhatsApp Image 2026-04-26 at 22 30 17" src="https://github.com/user-attachments/assets/46797722-b671-417b-b349-595dcb99f839" />
 
@@ -133,18 +133,18 @@ De forma geral, os feedbacks foram positivos, destacando a organização dos dad
 
 ---
     
-## **- Fluxos ou protótipos:**  
+# **- Fluxos ou protótipos:**  
 
-# - Dados de exportação:
+## - Dados de exportação:
 [Dados de exportação.pbix.zip](https://github.com/user-attachments/files/27131820/Dados.de.exportacao.pbix.zip)
 
   
-# - Códigos:
+## - Códigos:
 https://drive.google.com/drive/u/3/folders/19I9O8V90gx16whe9Dl3pl7t601oejvzJ
 https://drive.google.com/drive/u/3/folders/1OVMyGKbBzg-0-vlNbANG84wm4vDldCJl
 
 
 
-**- Vídeo (MVP):**  
+## - Vídeo (MVP):  
 
 (https://youtu.be/92MwSK13sgo)

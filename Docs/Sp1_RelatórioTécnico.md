@@ -1,8 +1,5 @@
 ### Relatório Técnico Sprint 1.
 
-Projeto: Plataforma de Análise de Comércio Exterior dos Municípios do Estado de São Paulo
-
-
 ---
 
 **1. Contextualização do Projeto:**

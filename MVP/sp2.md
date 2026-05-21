@@ -49,30 +49,30 @@ Os dados serão ampliados para os anos de 2023 a 2026, incorporando filtros por 
 
 ## 👥 Personas / Usuários-Alvo
 
-## - Persona 1: Analista Institucional de Dados (CADI)
+## 👥 Persona 1: Analista Institucional de Dados (CADI)
 Profissional responsável por acompanhar o desempenho econômico e comercial dos municípios do estado de São Paulo.
 
-**Necessidades:**
+- **Necessidades:**
 Necessita analisar grandes volumes de dados de comércio exterior para identificar padrões, tendências e comparações regionais. Entretanto, enfrenta dificuldades devido à falta de organização e padronização das informações.
 
-**Dores atendidas:**
+- **Dores atendidas:**
 O MVP disponibiliza dashboards organizados e filtros por municípios, permitindo análises mais rápidas, comparações eficientes e melhor interpretação dos indicadores econômicos.
     
-## Persona 2: Estudante/Pesquisador
+## 👥 Persona 2: Estudante/Pesquisador
 Usuário acadêmico que realiza pesquisas relacionadas à logística, economia e comércio exterior.
 
-**Necessidades:**
+- **Necessidades:**
 Precisa acessar dados estruturados e confiáveis para desenvolvimento de estudos e análises exploratórias, reduzindo o tempo gasto com coleta e tratamento manual das informações.
 
-**Dores atendidas:**
+- **Dores atendidas:**
 O MVP oferece uma base de dados organizada e dashboards interativos, facilitando análises acadêmicas e interpretação de padrões comerciais.
 
-## Persona 3: Analista de Logística
+## 👥 Persona 3: Analista de Logística
 Profissional responsável pelo planejamento e análise das operações logísticas e comerciais.
 
-**Necessidades:** Busca compreender custos logísticos, países envolvidos nas operações comerciais e produtos movimentados, porém enfrenta dificuldades devido à falta de visualização integrada dessas informações.
+- **Necessidades:** Busca compreender custos logísticos, países envolvidos nas operações comerciais e produtos movimentados, porém enfrenta dificuldades devido à falta de visualização integrada dessas informações.
 
-**Dores atendidas:** O MVP disponibiliza dashboards específicos de importação contendo indicadores logísticos, custos de transporte, produtos importados e quantidade estatística, facilitando análises operacionais.
+- **Dores atendidas:** O MVP disponibiliza dashboards específicos de importação contendo indicadores logísticos, custos de transporte, produtos importados e quantidade estatística, facilitando análises operacionais.
  
 
 ---

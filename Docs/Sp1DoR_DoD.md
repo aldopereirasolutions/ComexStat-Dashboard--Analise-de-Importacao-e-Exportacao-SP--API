@@ -84,7 +84,6 @@
 
 ---
 
-## DoR Sprint 1:
 ## 📌 Definition of Ready (DoR) – Sprint 1
 
 Antes do início da Sprint 1, todas as User Stories selecionadas devem atender aos critérios abaixo, garantindo que estejam prontas para desenvolvimento.
@@ -108,26 +107,19 @@ Antes do início da Sprint 1, todas as User Stories selecionadas devem atender a
 
 ---
 
-## DoD da Sprint 1:
 
-## 📌 Definition of Ready (DoR) – Sprint 1
+## 📌 Definition of Done (DoD) – Sprint 1
 
-Antes do início da Sprint 1, todas as User Stories selecionadas devem atender aos critérios abaixo, garantindo que estejam prontas para desenvolvimento.
+A Sprint 1 só pode ser considerada concluídaquando atender aos seguintes critérios:
 
-**Sobre as User Stories:**
-- [x] Possuem título claro, descrição bem definida e objetivo compreendido
-- [x] Estão escritas no formato padrão: “Como cliente, quero..., para...”
-- [x] Possuem critérios de validação definidos
-- [x] Possuem regras de negócio claras e documentadas
-- [x] Estão alinhadas ao escopo do projeto (dados de exportação de São Paulo e municípios – 2021 e 2022)
-- [x] Não possuem dependências bloqueadoras para desenvolvimento
-- [x] Foram compreendidas e validadas pelo time
-
-**Sobre os artefatos correlatos às User Stories**:
-- [x] Dashboard (Power BI) com estrutura inicial definida (layout ou esboço)
-- [x] Script base no Google Colab disponível para tratamento dos dados
-- [x] Fonte de dados (ComexStat) definida e acessível
-- [x] Tabela de municípios do IBGE disponível para integração
-- [x] Regras de negócio documentadas (ex: definição de métricas como valor em dólar)
-- [x] Estrutura definida no GitHub
-- [x] Estratégia de testes definida (validação dos dados e consistência das informações)
+- [x] Dados de exportação dos anos de 2022 e 2023 coletados e organizados corretamente.
+- [x] Tabela de exportação estruturada e validada.
+- [x] Tratamento e limpeza dos dados realizados no Google Colab.
+- [x] Dashboard inicial desenvolvido no Power BI.
+- [x] Filtros dos dados de exportação implementados e funcionando corretamente.
+- [x] Indicadores de Código NCM, Valor FOB (US$), País de destino e Via de Transporte exibidos corretamente.
+- [x] Mapa das regiões selecionadas implementado e funcional.
+- [x] Testes realizados pelos membros da equipe para validação dos dados e dashboards.
+- [x] Backlog da Sprint 1 documentado.
+- [x] Repositório GitHub atualizado com os artefatos produzidos na Sprint.
+- [x] Atividades da Sprint documentados no relatório parcial do projeto.

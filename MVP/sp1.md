@@ -140,11 +140,11 @@ De forma geral, os feedbacks foram positivos, destacando a organização dos dad
 
   
 - **Códigos:**
-https://drive.google.com/drive/u/3/folders/19I9O8V90gx16whe9Dl3pl7t601oejvzJ
-https://drive.google.com/drive/u/3/folders/1OVMyGKbBzg-0-vlNbANG84wm4vDldCJl
+  - https://drive.google.com/drive/u/3/folders/19I9O8V90gx16whe9Dl3pl7t601oejvzJ
+  - https://drive.google.com/drive/u/3/folders/1OVMyGKbBzg-0-vlNbANG84wm4vDldCJl
 
 
 
-## - Vídeo (MVP):  
+## Vídeo (MVP):  
 
-(https://youtu.be/92MwSK13sgo)
+- https://youtu.be/92MwSK13sgo

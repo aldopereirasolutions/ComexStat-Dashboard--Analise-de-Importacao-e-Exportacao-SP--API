@@ -111,17 +111,18 @@ Profissional responsável pelo planejamento e análise das operações logístic
 ---
 
 ## 📈 Métricas de Validação
-##**Número de usuários que testaram o MVP:**
+## **Número de usuários que testaram o MVP:**
 
 Os testes foram realizados por membros da equipe, sendo:
 
 * Luiz Augusto (Scrum Master - SM);
 * Rita Carolina (Team Member - TM).
  
-##**Feedback qualitativo (positivo/negativo):**
+## **Feedback qualitativo (positivo/negativo):**
+
 Os feedbacks foram positivos em relação à organização dos dashboards, clareza das informações e melhoria dos filtros. Também foram destacadas oportunidades de melhoria relacionadas aos tipos de filtros que poderiam ser incluídos.
     
-##**Indicadores de negócio:**
+## **Indicadores de negócio:**
 * Redução do tempo de análise de dados;
 * Aumento da eficiência na tomada de decisão;
 * Melhoria na visualização e interpretação das informações;

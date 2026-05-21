@@ -8,18 +8,18 @@ Atualmente, os dados de importação e exportação encontram-se dispersos e com
 
 - **Hipótese a ser validada:** Se os dashboards forem ampliados com novos indicadores, filtros por municípios e dados atualizados de importação e exportação, será possível realizar análises mais detalhadas e eficientes, facilitando a interpretação dos dados e apoiando a tomada de decisão.
 
-- **Valor entregue:** O MVP entrega dashboards interativos contendo informações de comércio exterior entre 2023 e 2026, permitindo visualizar dados de importação e exportação dos municípios paulistas, identificar produtos comercializados, países envolvidos nas operações, custos logísticos e indicadores estatísticos de forma organizada e acessível.
+- **Valor entregue:** O MVP entrega dashboards interativos contendo informações de comércio exterior entre 2021 e 2026, permitindo visualizar dados de importação e exportação dos municípios paulistas, identificar produtos comercializados, países envolvidos nas operações, custos logísticos e indicadores estatísticos de forma organizada e acessível.
 
 ---
 
 ## 📝 Descrição da Solução
 Nesta sprint, será realizada a continuidade do projeto iniciado anteriormente, com melhorias estruturais e visuais nos dashboards existentes, além da criação de novos painéis voltados para análise de importação.
 
-Os dados serão ampliados para os anos de 2023 a 2026, incorporando filtros por municípios do estado de São Paulo.
+Os dados serão ampliados para os anos de 2021 a 2026, incorporando filtros por municípios do estado de São Paulo.
 
 **Funcionalidades principais incluídas:**
 
-- Expansão dos dashboards de exportação (2023 a 2026);
+- Expansão dos dashboards de exportação (2021 a 2026);
 - Criação de dashboards de importação;
 - Filtros por municípios do estado de São Paulo;
 - **Visualização de:**

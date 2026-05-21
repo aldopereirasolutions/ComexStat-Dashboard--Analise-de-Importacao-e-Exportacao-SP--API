@@ -123,11 +123,12 @@ Os testes foram realizados por membros da equipe, sendo:
 Os feedbacks foram positivos em relação à organização dos dashboards, clareza das informações e melhoria dos filtros. Também foram destacadas oportunidades de melhoria relacionadas aos tipos de filtros que poderiam ser incluídos.
     
 ## **Indicadores de negócio:**
-* Redução do tempo de análise de dados;
-* Aumento da eficiência na tomada de decisão;
-* Melhoria na visualização e interpretação das informações;
-* Redução de custos operacionais com análise manual de dados;
-* Otimização dos custos logísticos.
+- Redução do tempo de análise de dados;
+- Aumento da eficiência na tomada de decisão;
+- Melhoria na visualização e interpretação das informações;
+- Apoio na identificação de oportunidades no comércio exterior;
+- Redução de custos operacionais com análise manual de dados;
+- Otimização dos custos logísticos.
 
 ---
 

@@ -119,21 +119,32 @@ Antes do início da Sprint 2, todas as User Stories selecionadas devem atender a
 critérios abaixo, garantindo que estejam prontas para desenvolvimento.
 Sobre as User Stories:
 • Possuem título claro, descrição bem definida e objetivo compreendido
+
 • Estão escritas no formato padrão: “Como cliente, quero..., para...”
+
 • Possuem critérios de validação definidos
+
 • Possuem regras de negócio claras e documentadas
+
 • Estão alinhadas ao escopo do projeto (dados de exportação de São Paulo e
 municípios – 2021 a 2026)
+
 • Não possuem dependências bloqueadoras para desenvolvimento
 
 • Foram compreendidas e validadas pelo time
-Sobre os artefatos correlatos às User Stories:
+
+## Sobre os artefatos correlatos às User Stories:
 • Dashboard (Power BI) com estrutura inicial definida (layout ou esboço)
+
 • Script base no Google Colab disponível para tratamento dos dados
+
 • Fonte de dados (ComexStat) definida e acessível
+
 • Regras de negócio documentadas (ex: definição de métricas como valor em
 dólar)
+
 • Estrutura de versionamento definida no GitHub
+
 • Estratégia de testes definida (validação dos dados e consistência das
 informações)
 
@@ -142,16 +153,27 @@ informações)
 A Sprint 1 só pode ser considerada concluída quando atender aos seguintes critérios:
 • Dados de importação e exportação dos anos de 2021 a 2026 coletados e
 organizados corretamente.
+
 • Tabela de exportação estruturada e validada.
+
 • Tabela de importação estruturada e validada.
+
 • Tratamento e limpeza dos dados realizados no Google Colab.
+
 • Dashboard inicial desenvolvido no Power BI.
+
 • Filtros dos dados de importação e exportação implementados e funcionando corretamente.
+
 • Indicadores de Código NCM, Valor FOB (US$), País de destino e Via de
 Transporte exibidos corretamente.
+
 • Mapa das regiões selecionadas implementado e funcional.
+
 • Testes realizados pelos membros da equipe para validação dos dados e
 dashboards.
+
 • Backlog da Sprint 2 documentado.
+
 • Repositório GitHub atualizado com os artefatos produzidos na Sprint.
+
 • Atividades da Sprint documentados no relatório parcial do projeto.

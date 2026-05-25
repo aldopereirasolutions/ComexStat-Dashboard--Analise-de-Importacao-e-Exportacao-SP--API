@@ -168,7 +168,9 @@ Os feedbacks foram positivos em relação à organização dos dashboards, clare
 
 ## 📂 Anexos / Evidências
 
-- Prints de tela:
+### - Prints de tela:
+
+#### **Importação:**
 
 <img width="1290" height="736" alt="WhatsApp Image 2026-05-22 at 15 49 56 (1)" src="https://github.com/user-attachments/assets/b5f211ef-aa28-416b-bc33-cd44596525e4" />
 
@@ -178,7 +180,15 @@ Os feedbacks foram positivos em relação à organização dos dashboards, clare
 
 <img width="1762" height="72" alt="Captura de tela 2026-05-25 162834" src="https://github.com/user-attachments/assets/a33da5c5-92ef-4221-87cb-6e195e0fe093" />
 
+<img width="1855" height="857" alt="1" src="https://github.com/user-attachments/assets/b9c99597-3fa6-4ab4-87b8-0efd0d5c8fd5" />
 
+<img width="1868" height="742" alt="2" src="https://github.com/user-attachments/assets/9b07d7c3-53a0-442e-967e-9b34f37a004c" />
+
+<img width="1871" height="728" alt="3" src="https://github.com/user-attachments/assets/3cf3b761-a56d-4655-bacd-6140fdd25e94" />
+
+<img width="1870" height="741" alt="4" src="https://github.com/user-attachments/assets/a102e95d-bd3b-4d18-ae38-63bd91d372d8" />
+
+<img width="1862" height="620" alt="5" src="https://github.com/user-attachments/assets/3fd76b4e-6e6e-4bf8-baad-97f15094ca84" />
 
 
 

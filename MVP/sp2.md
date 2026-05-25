@@ -178,9 +178,9 @@ Os feedbacks foram positivos em relação à organização dos dashboards, clare
 
 <img width="1777" height="726" alt="Captura de tela 2026-05-25 162743" src="https://github.com/user-attachments/assets/b34b07d6-cd46-47b2-8671-890a4837c490" />
 
----
-
 <img width="1762" height="72" alt="Captura de tela 2026-05-25 162834" src="https://github.com/user-attachments/assets/a33da5c5-92ef-4221-87cb-6e195e0fe093" />
+
+---
 
 <img width="1855" height="857" alt="1" src="https://github.com/user-attachments/assets/b9c99597-3fa6-4ab4-87b8-0efd0d5c8fd5" />
 

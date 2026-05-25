@@ -8,41 +8,68 @@ Atualmente, os dados de importação e exportação encontram-se dispersos e com
 
 - **Hipótese a ser validada:** Se os dashboards forem ampliados com novos indicadores, filtros por municípios e dados atualizados de importação e exportação, será possível realizar análises mais detalhadas e eficientes, facilitando a interpretação dos dados e apoiando a tomada de decisão.
 
-- **Valor entregue:** O MVP entrega dashboards interativos contendo informações de comércio exterior entre 2021 e 2026, permitindo visualizar dados de importação e exportação dos municípios paulistas, identificar produtos comercializados, países envolvidos nas operações, custos logísticos e indicadores estatísticos de forma organizada e acessível.
+- **Valor entregue:** O MVP entrega dashboards interativos contendo informações de comércio exterior entre 2021 e 2026, permitindo visualizar produtos exportados, países de destino, modais de transporte utilizados, quantidade estatística, peso líquido das cargas, mapa de visualização, rank de via por valor FOB e a porcentagem de participação dos produtos.
 
 ---
 
 ## 📝 Descrição da Solução
-Nesta sprint, será realizada a continuidade do projeto iniciado anteriormente, com melhorias estruturais e visuais nos dashboards existentes, além da criação de novos painéis voltados para análise de importação.
+Nesta sprint, será realizada a continuidade do projeto iniciado anteriormente, com melhorias estruturais e visuais nos dashboards existentes, além da ampliação da base de dados utilizada nas análises.
 
-Os dados serão ampliados para os anos de 2021 a 2026, incorporando filtros por municípios do estado de São Paulo.
+Os dashboards passam a incluir informações de 2021 a 2026, incorporando filtros por municípios, produtos SH4, países exportados, anos, meses, modais de transporte, etc.
 
 **Funcionalidades principais incluídas:**
 
-- Expansão dos dashboards de exportação (2021 a 2026);
-- Criação de dashboards de importação;
-- Filtros por municípios do estado de São Paulo;
-- **Visualização de:**
-  - Valor FOB;
-  - Valor de frete;
-  - Valor de seguro;
-  - Produtos importados;
-  - Países de origem;
-  - Quantidade estatística;
-- Organização e melhoria visual dos dashboards;
+### Dashboard de Exportação
+
+- Mapa de localização do Estado de São Paulo;
+- Soma do Valor FOB em dólar;
+- Total de produtos exportados;
+- Mapa de visualização dos países exportados;
+- Gráfico de participação dos produtos em porcentagem;
+- Tabela de vias e seus totais de movimentações.
+
+#### Filtros
+
+- Municípios;
+- Produtos em SH4;
+- Países exportados;
+- Ano (2021 a 2026);
+- Mês.
+
+### Dashboard de Importação
+
+- Soma do valor em dólar;
+- Quantidade estatística;
+- Peso total líquido dos produtos (KG);
+- Número total de operações;
+- Mapa de localização do Estado de São Paulo;
+- Soma do valor de frete;
+- Ranking das vias por Valor FOB;
+- Evolução do Valor FOB por ano.
+
+#### Filtros
+
+- Ano;
+- Mês;
+- Municípios;
+- País;
+- Modais de transporte (via);
+- Produtos.
+
 
 **Limitações conhecidas:**
 
 - Plataforma ainda limitada ao Power BI;
 - Dependência de tratamento manual dos dados;
-- Plataforma web ainda não implementada;
+- Ausência de análises preditivas e projeções futuras;
 - Algumas análises avançadas ainda não foram adicionadas.
 
 **Escopo reduzido:**
 
-- Expansão e reorganização dos dashboards;
-- Inclusão de dados de importação;
-- Implementação de filtros municipais;
+- Expansão dos dashboards de exportação para o período de 2021 a 2026;
+- Desenvolvimento dos dashboards de importação;
+- Implementação de filtros por municípios, produtos, países e períodos;
+- Inclusão de indicadores logísticos e econômicos;
 - Melhoria visual e estrutural das análises.
 
 ---

@@ -178,6 +178,8 @@ Os feedbacks foram positivos em relação à organização dos dashboards, clare
 
 <img width="1777" height="726" alt="Captura de tela 2026-05-25 162743" src="https://github.com/user-attachments/assets/b34b07d6-cd46-47b2-8671-890a4837c490" />
 
+---
+
 <img width="1762" height="72" alt="Captura de tela 2026-05-25 162834" src="https://github.com/user-attachments/assets/a33da5c5-92ef-4221-87cb-6e195e0fe093" />
 
 <img width="1855" height="857" alt="1" src="https://github.com/user-attachments/assets/b9c99597-3fa6-4ab4-87b8-0efd0d5c8fd5" />
@@ -189,6 +191,8 @@ Os feedbacks foram positivos em relação à organização dos dashboards, clare
 <img width="1870" height="741" alt="4" src="https://github.com/user-attachments/assets/a102e95d-bd3b-4d18-ae38-63bd91d372d8" />
 
 <img width="1862" height="620" alt="5" src="https://github.com/user-attachments/assets/3fd76b4e-6e6e-4bf8-baad-97f15094ca84" />
+
+---
 
 ### **Exportação:**
 
@@ -202,8 +206,22 @@ Os feedbacks foram positivos em relação à organização dos dashboards, clare
 
 <img width="1868" height="430" alt="d" src="https://github.com/user-attachments/assets/deee9ce5-d3a9-42e0-a485-7aee00ed5188" />
 
+---
 
+<img width="1871" height="841" alt="aa" src="https://github.com/user-attachments/assets/40501bc1-1da4-472a-80bd-e260bbc4c6a4" />
+
+<img width="1870" height="733" alt="bb" src="https://github.com/user-attachments/assets/090117e7-e400-4041-8aeb-4dedc3026c85" />
+
+<img width="1870" height="732" alt="cc" src="https://github.com/user-attachments/assets/51405efa-1961-48d9-80a1-958b17556fd3" />
+
+<img width="1873" height="722" alt="dd" src="https://github.com/user-attachments/assets/330ae1eb-c1be-464a-a133-6427a47bae27" />
+
+<img width="1867" height="516" alt="ee" src="https://github.com/user-attachments/assets/ae9f7632-ff10-4113-ab5d-083dc83511f1" />
+
+---
 
 - Fluxos ou protótipos: https://drive.google.com/drive/folders/1cyFB0D47e_sD2grL4PLvKERHOpEPR9hu?usp=drive_link
+
+---
 
 - Vídeo (MVP):   

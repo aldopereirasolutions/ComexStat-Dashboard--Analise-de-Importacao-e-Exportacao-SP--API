@@ -167,6 +167,16 @@ Os feedbacks foram positivos em relação à organização dos dashboards, clare
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+- Prints de tela:
+- 
+<img width="877" height="490" alt="WhatsApp Image 2026-05-23 at 17 31 02 (1)" src="https://github.com/user-attachments/assets/92efb3b7-7011-437e-96da-bb09c4a879c2" />
+
+<img width="1290" height="736" alt="WhatsApp Image 2026-05-22 at 15 49 56 (1)" src="https://github.com/user-attachments/assets/b5f211ef-aa28-416b-bc33-cd44596525e4" />
+    
+- Fluxos ou protótipos:
+
+
+
+
+
+- Vídeo (MVP):   

@@ -2,15 +2,11 @@
 
 ---
 
-**- Backlog da Sprint 2:** 
+**- Backlog da Sprint 2:** [Backlog da Sprint2_APS.xlsx](https://github.com/user-attachments/files/28225569/Backlog.da.Sprint2_APS.xlsx)
 
 ---
 
 **- Link Vídeo MVP (Youtube):**
-
----
-
-**- Dados de Exportação:** 
 
 ---
 

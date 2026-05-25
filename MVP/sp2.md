@@ -224,4 +224,4 @@ Os feedbacks foram positivos em relação à organização dos dashboards, clare
 
 ---
 
-- Vídeo (MVP):   
+- Vídeo (MVP): https://youtu.be/gOLNpZY3Jg8

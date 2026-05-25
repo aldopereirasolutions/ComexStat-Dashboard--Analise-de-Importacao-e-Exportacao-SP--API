@@ -190,6 +190,18 @@ Os feedbacks foram positivos em relação à organização dos dashboards, clare
 
 <img width="1862" height="620" alt="5" src="https://github.com/user-attachments/assets/3fd76b4e-6e6e-4bf8-baad-97f15094ca84" />
 
+### **Exportação:**
+
+<img width="1290" height="736" alt="WhatsApp Image 2026-05-22 at 15 49 56 (1)" src="https://github.com/user-attachments/assets/c26b8021-6b16-42e7-a8ed-b4a1f9fe3b30" />
+
+<img width="1867" height="848" alt="a" src="https://github.com/user-attachments/assets/cf2deddc-d2ef-4267-a19f-7d690576288f" />
+
+<img width="1870" height="733" alt="b" src="https://github.com/user-attachments/assets/905ab46d-812b-4dae-a0b7-49ae7d46de97" />
+
+<img width="1872" height="730" alt="c " src="https://github.com/user-attachments/assets/ceb8dd05-9aee-456b-98b0-76ad05f30753" />
+
+<img width="1868" height="430" alt="d" src="https://github.com/user-attachments/assets/deee9ce5-d3a9-42e0-a485-7aee00ed5188" />
+
 
 
 - Fluxos ou protótipos: https://drive.google.com/drive/folders/1cyFB0D47e_sD2grL4PLvKERHOpEPR9hu?usp=drive_link

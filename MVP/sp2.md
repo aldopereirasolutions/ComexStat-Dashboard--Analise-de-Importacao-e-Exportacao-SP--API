@@ -170,8 +170,6 @@ Os feedbacks foram positivos em relação à organização dos dashboards, clare
 
 - Prints de tela:
 
-<img width="877" height="490" alt="WhatsApp Image 2026-05-23 at 17 31 02 (1)" src="https://github.com/user-attachments/assets/92efb3b7-7011-437e-96da-bb09c4a879c2" />
-
 <img width="1290" height="736" alt="WhatsApp Image 2026-05-22 at 15 49 56 (1)" src="https://github.com/user-attachments/assets/b5f211ef-aa28-416b-bc33-cd44596525e4" />
 
 <img width="1852" height="851" alt="Captura de tela 2026-05-25 162646" src="https://github.com/user-attachments/assets/4671a42d-d3e4-4990-90ea-b3342d7384a5" />
@@ -179,6 +177,9 @@ Os feedbacks foram positivos em relação à organização dos dashboards, clare
 <img width="1777" height="726" alt="Captura de tela 2026-05-25 162743" src="https://github.com/user-attachments/assets/b34b07d6-cd46-47b2-8671-890a4837c490" />
 
 <img width="1762" height="72" alt="Captura de tela 2026-05-25 162834" src="https://github.com/user-attachments/assets/a33da5c5-92ef-4221-87cb-6e195e0fe093" />
+
+
+
 
 
 - Fluxos ou protótipos: https://drive.google.com/drive/folders/1cyFB0D47e_sD2grL4PLvKERHOpEPR9hu?usp=drive_link

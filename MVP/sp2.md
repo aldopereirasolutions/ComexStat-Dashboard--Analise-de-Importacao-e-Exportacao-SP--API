@@ -4,11 +4,11 @@
 O MVP (Produto Mínimo Viável) da Sprint 2 tem como objetivo ampliar e aprimorar a plataforma de BI desenvolvida na Sprint 1, expandindo as análises de comércio exterior dos municípios do estado de São Paulo por meio de dashboards mais completos e interativos.
 
 - **Problema a ser resolvido:** 
-Atualmente, os dados de importação e exportação encontram-se dispersos e com baixa padronização visual, dificultando análises comparativas, identificação de tendências econômicas e interpretação de indicadores logísticos dos municípios paulistas.
+Os dados de comércio exterior encontram-se distribuídos em grandes bases de dados, dificultando a análise integrada de importações e exportações, a identificação de tendências econômicas e a compreensão dos indicadores logísticos dos municípios paulistas.
 
 - **Hipótese a ser validada:** Se os dashboards forem ampliados com novos indicadores, filtros por municípios e dados atualizados de importação e exportação, será possível realizar análises mais detalhadas e eficientes, facilitando a interpretação dos dados e apoiando a tomada de decisão.
 
-- **Valor entregue:** O MVP entrega dashboards interativos contendo informações de comércio exterior entre 2021 e 2026, permitindo visualizar produtos exportados, países de destino, modais de transporte utilizados, quantidade estatística, peso líquido das cargas, mapa de visualização, rank de via por valor FOB e a porcentagem de participação dos produtos.
+- **Valor entregue:** O MVP entrega dashboards interativos contendo informações de importação e exportação dos municípios do estado de São Paulo entre 2021 e 2026, permitindo visualizar produtos comercializados, países envolvidos nas operações, valores financeiros, modais de transporte, movimentações logísticas e indicadores estatísticos de forma organizada e acessível.
 
 ---
 
